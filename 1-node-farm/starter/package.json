@@ -9,7 +9,6 @@
   "author": "Ralf",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3",
     "slugify": "^1.6.5"
   },
   "devDependencies": {
